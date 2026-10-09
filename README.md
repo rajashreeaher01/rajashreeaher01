@@ -93,13 +93,14 @@ A full-stack web application inspired by Airbnb, built to explore and manage tra
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajashreeaher01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeaher01&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajashreeaher01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeaher01&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
+
 
 ---
 
