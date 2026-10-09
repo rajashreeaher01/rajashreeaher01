@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="github-banner.png" alt="Rajashree Aher - Aspiring Full-Stack Developer" width="100%">
+</p>
+
+---
 # 👋 Hey there, I'm Rajashree Aher!
 
 ### 💻 Aspiring Full-Stack Developer | MERN Stack | Problem Solver
@@ -104,7 +109,7 @@ I'm always interested in connecting with fellow developers, collaborating on pro
 
 📧 **Email:** [rajashreeaher.work@gmail.com](mailto:rajashreeaher.work@gmail.com)
 
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rajashree-aher/)
 
 🐙 **GitHub:** [@rajashreeaher01](https://github.com/rajashreeaher01)
 
